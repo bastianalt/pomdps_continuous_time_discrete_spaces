@@ -1,0 +1,12 @@
+.idea/
+venv/
+*.pyc
+examples/checkpoints/*
+examples/log/*
+
+!examples/checkpoints/.README
+!examples/log/.README
+
+examples/.DS_Store
+
+.DS_Store
